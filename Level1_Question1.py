@@ -4,6 +4,7 @@ between 2000 and 3200 (both included).
 The numbers obtained should be printed in a comma-separated sequence on a single line"""
 
 
+
 list = []
 for item in range (2000,3201):
     if item % 7 == 0 and item % 5 != 0:
